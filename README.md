@@ -1,6 +1,20 @@
-# Hello_World
 
-Practice Repository
+## Project Title
+> Hello World Sample
 
-University of Iowa
-B.B.A., Business Analytics and Information Systems - STEM Designated
+## Description
+> *GitHub practicing / Description comes this section*
+
+## How to Run Program
+> `Print("Hello Word")`
+
+## File Used
+> - Filename
+> - Filetype
+> - URL
+
+## Additional Documentation
+> **No additional Documentation**
+
+## Version Summary
+> Version Changes or Version Updated
